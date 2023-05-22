@@ -1,1 +1,1 @@
-# ToiletPazzle
+# ToiletPuzzle
